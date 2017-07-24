@@ -48,6 +48,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="p" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="u" />
   </action>
