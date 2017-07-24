@@ -1,0 +1,85 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="141+">
+    <driver id="h2.unified" name="H2" dialect="H2">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle" name="Oracle" dialect="Oracle">
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-11.2.0.4.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-11.2.0.4.jar</url>
+      </library>
+    </driver>
+    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="db2" name="DB2 (LUW)" dialect="DB2">
+      <option name="auto-sync" value="false" />
+      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+    </driver>
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="mysql" name="MySQL" dialect="MySQL">
+      <option name="auto-sync" value="true" />
+      <property name="zeroDateTimeBehavior" value="convertToNull" />
+      <property name="tinyInt1isBit" value="false" />
+      <property name="characterEncoding" value="utf8" />
+      <property name="characterSetResults" value="utf8" />
+      <property name="yearIsDateType" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
+      </library>
+    </driver>
+    <driver id="25fb6f7e-6b9b-43ea-9f41-8b99c2321c7a" name="Oracle - D1DSB@oradbtest2.wpprivate.com driver" dialect="Oracle" driver-class="oracle.jdbc.OracleDriver" icon="AllIcons.Providers.Oracle">
+      <artifact name="Oracle" />
+      <url-template name="Service Name" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@//{host::localhost}?[:{port::1521}]/{service:database:XE}" />
+      <url-template name="SID" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@{host::localhost}?[:{port::1521}]:{SID:database:XE}" />
+      <url-template name="TNS" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@{tns_name}" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$USER_HOME$/p/wp/misc/ojdbc14-10.2.0.3.0.jar</url>
+      </library>
+    </driver>
+    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
+      <option name="auto-sync" value="true" />
+    </driver>
+  </component>
+</application>

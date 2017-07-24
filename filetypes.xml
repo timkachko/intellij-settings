@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="helloworld" type="Go" />
+      <mapping pattern="presentation-day-2" type="PLAIN_TEXT" />
+      <mapping pattern="_wp-header-overrides.scss" type="PLAIN_TEXT" />
+      <mapping pattern="pw-error-messages" type="PLAIN_TEXT" />
+      <mapping pattern="validator" type="PLAIN_TEXT" />
+      <mapping pattern="build-and-publish" type="PLAIN_TEXT" />
+      <mapping pattern="ebt-detailed-page" type="PLAIN_TEXT" />
+      <mapping ext="js'" type="PLAIN_TEXT" />
+      <mapping pattern="userData" type="TypeScript" />
+      <mapping pattern="data-interfaces" type="TypeScript" />
+      <mapping pattern="helloworld.go" type="Web2Py" />
+      <mapping ext="sfx" type="XML" />
+    </extensionMap>
+  </component>
+</application>

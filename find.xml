@@ -1,0 +1,44 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Directory '.../src - [gotrs]'" />
+    <option name="defaultScopeName" value="Directory '.../src - [gotrs]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src - [gotrs]'" />
+    <option name="FILE_MASK" value="*.map" />
+    <recentFileMasks>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.tpl.html</mask>
+      <mask>*.реьд</mask>
+      <mask>*.less</mask>
+      <mask>*.ftl</mask>
+      <mask>*.directive.js</mask>
+      <mask>*.jss</mask>
+      <mask>*.scss</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*</mask>
+      <mask>*.оы</mask>
+      <mask>*.о</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.m</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ma</mask>
+      <mask>*.map</mask>
+    </recentFileMasks>
+  </component>
+</application>

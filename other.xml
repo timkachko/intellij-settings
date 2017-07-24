@@ -1,0 +1,212 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="android-designer,text-editor" value="text-editor" />
+      </map>
+    </option>
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout />
+    <propertiesTableLayout />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.10.0" last-modified="1497966714000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="6.0.0" last-modified="1478632859000" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="entitySuffix" value="Partner2" />
+    <option name="generateDefaultRelationships" value="true" />
+    <option name="ENTITY_SUFFIX" value="Partner2" />
+    <option name="ADD_TO_UNIT" value="true" />
+    <option name="GENERATE_DEFAULT_RELATIONSHIPS" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt" />
+        <option value="svn+ssh://prodcode.digitalink.com/data/svn/acctmgmt" />
+        <option value="svn+ssh://procode.digitalink.com/data/svn/acctmgmt/" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt/actmgmt_parent/Demos/WpIdentityJsDemo/WpIdentityJsDemo.iml">
+          <value>
+            <set>
+              <option value="$USER_HOME$/p/wp/Demos/WpIdentityJsDemo/WpIdentityJsDemo.iml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt/actmgmt_parent/Demos/WpIdentityJsDemo/dist">
+          <value>
+            <set>
+              <option value="$USER_HOME$/p/wp/Demos/WpIdentityJsDemo/dist" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt/actmgmt_parent/Demos/WpIdentityJsDemo/nb-configuration.xml">
+          <value>
+            <set>
+              <option value="$USER_HOME$/p/wp/Demos/WpIdentityJsDemo/nb-configuration.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt/actmgmt_parent/Demos/WpIdentityJsDemo/pom.xml">
+          <value>
+            <set>
+              <option value="$USER_HOME$/p/wp/Demos/WpIdentityJsDemo/pom.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt/actmgmt_parent/Demos/WpIdentityJsDemo/target">
+          <value>
+            <set>
+              <option value="$USER_HOME$/p/wp/Demos/WpIdentityJsDemo/target" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt/actmgmt_parent/Demos/WpIdentityJsDemo/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/p/wp/Demos/WpIdentityJsDemo/trunk" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt/actmgmt_parent/paywall/Profile/branches">
+          <value>
+            <set>
+              <option value="$USER_HOME$/p/wp/paywall/Profile/branches" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://prodcode4.digitalink.com/data/svn/acctmgmt/actmgmt_parent/paywall/WebViews">
+          <value>
+            <set>
+              <option value="$USER_HOME$/p/wp/paywall/WebViews" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="VCS Commit" />
+      </set>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
+</application>

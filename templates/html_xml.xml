@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="pre-code" value="&lt;pre&gt;&lt;code highlight class=&quot;html&quot;&gt;&#10;$SELECTION$&#10;&lt;/code&gt;&lt;/pre&gt;" description="Surround  with preformatted code" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
