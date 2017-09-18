@@ -21,6 +21,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl b" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="g" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl h" />
   </action>
