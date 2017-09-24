@@ -3,7 +3,7 @@
     <property name="created">2017-07-24T13:56:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-09-24T16:45:40</property>
+    <property name="modified">2017-09-24T17:14:23</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -52,6 +52,13 @@
       <value>
         <option name="FOREGROUND" value="4c4c4c" />
         <option name="BACKGROUND" value="3b3b3b" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a1a369" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
   </attributes>
