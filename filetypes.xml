@@ -9,6 +9,7 @@
       <mapping pattern="presentation-day-2" type="PLAIN_TEXT" />
       <mapping pattern="build-and-publish" type="PLAIN_TEXT" />
       <mapping pattern="ebt-detailed-page" type="PLAIN_TEXT" />
+      <mapping ext="1265340420" type="PLAIN_TEXT" />
       <mapping ext="js'" type="PLAIN_TEXT" />
       <mapping pattern="userData" type="TypeScript" />
       <mapping pattern="data-interfaces" type="TypeScript" />
