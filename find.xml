@@ -19,6 +19,7 @@
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
+      <mask>*.htm</mask>
       <mask>*.html</mask>
     </recentFileMasks>
   </component>
