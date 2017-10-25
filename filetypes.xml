@@ -2,24 +2,25 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="helloworld" type="Go" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping pattern="_wp-header-overrides.scss" type="PLAIN_TEXT" />
-      <mapping pattern="pw-error-messages" type="PLAIN_TEXT" />
-      <mapping pattern="validator" type="PLAIN_TEXT" />
-      <mapping pattern="presentation-day-2" type="PLAIN_TEXT" />
       <mapping pattern="build-and-publish" type="PLAIN_TEXT" />
+      <mapping pattern="pw-error-messages" type="PLAIN_TEXT" />
+      <mapping pattern="_wp-header-overrides.scss" type="PLAIN_TEXT" />
+      <mapping pattern="presentation-day-2" type="PLAIN_TEXT" />
+      <mapping pattern="validator" type="PLAIN_TEXT" />
       <mapping pattern="ebt-detailed-page" type="PLAIN_TEXT" />
       <mapping ext="1265340420" type="PLAIN_TEXT" />
       <mapping ext="js'" type="PLAIN_TEXT" />
+      <mapping pattern="departments.ts" type="TypeScript" />
       <mapping pattern="userData" type="TypeScript" />
       <mapping pattern="data-interfaces" type="TypeScript" />
-      <mapping pattern="departments.ts" type="TypeScript" />
       <mapping pattern="departments" type="TypeScript" />
+      <mapping pattern="chainmarker-validators" type="TypeScript" />
       <mapping pattern="users-mock" type="TypeScript" />
-      <mapping ext="sfx" type="XML" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="helloworld" type="Go" />
       <mapping pattern="helloworld.go" type="Web2Py" />
+      <mapping ext="sfx" type="XML" />
     </extensionMap>
   </component>
 </application>
