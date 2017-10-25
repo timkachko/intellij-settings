@@ -17,6 +17,7 @@
       <mapping pattern="userData" type="TypeScript" />
       <mapping pattern="data-interfaces" type="TypeScript" />
       <mapping pattern="departments" type="TypeScript" />
+      <mapping pattern="GotrsValidation" type="TypeScript" />
       <mapping pattern="chainmarker-validators" type="TypeScript" />
       <mapping pattern="users-mock" type="TypeScript" />
       <mapping pattern="helloworld.go" type="Web2Py" />
