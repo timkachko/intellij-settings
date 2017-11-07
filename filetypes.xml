@@ -9,6 +9,7 @@
       <mapping pattern="pw-error-messages" type="PLAIN_TEXT" />
       <mapping pattern="_wp-header-overrides.scss" type="PLAIN_TEXT" />
       <mapping pattern="presentation-day-2" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="validator" type="PLAIN_TEXT" />
       <mapping pattern="ebt-detailed-page" type="PLAIN_TEXT" />
       <mapping ext="1265340420" type="PLAIN_TEXT" />
