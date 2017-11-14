@@ -11,6 +11,7 @@
       <mapping pattern="ebt-detailed-page" type="PLAIN_TEXT" />
       <mapping ext="1265340420" type="PLAIN_TEXT" />
       <mapping ext="js'" type="PLAIN_TEXT" />
+      <mapping pattern="data-classes" type="TypeScript" />
       <mapping pattern="userData" type="TypeScript" />
       <mapping pattern="data-interfaces" type="TypeScript" />
       <mapping pattern="departments.ts" type="TypeScript" />
