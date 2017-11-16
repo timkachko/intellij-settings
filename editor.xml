@@ -6,6 +6,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
@@ -16,9 +17,5 @@
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>

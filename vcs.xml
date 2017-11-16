@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/timkachko" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SuperOleg39/react-redux-typescript-starter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/p/tmp/express-ts-seed" />
+    <option name="cloneParentDir" value="$USER_HOME$/p/edu/" />
   </component>
 </application>

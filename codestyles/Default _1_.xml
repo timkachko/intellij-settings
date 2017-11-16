@@ -24,6 +24,7 @@
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -70,6 +71,7 @@
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
   </codeStyleSettings>
