@@ -16,6 +16,7 @@
       <mapping pattern="chainmarker-validators" type="TypeScript" />
       <mapping pattern="userData" type="TypeScript" />
       <mapping pattern="GotrsValidation" type="TypeScript" />
+      <mapping pattern="locationFormGroupFactory" type="TypeScript" />
       <mapping pattern="data-interfaces" type="TypeScript" />
       <mapping pattern="departments.ts" type="TypeScript" />
       <mapping pattern="validation-types" type="TypeScript" />
