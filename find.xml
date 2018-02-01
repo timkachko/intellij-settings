@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="rw*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -25,6 +26,8 @@
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.html</mask>
+      <mask>rwt*.html</mask>
+      <mask>rw*.html</mask>
     </recentFileMasks>
   </component>
 </application>
