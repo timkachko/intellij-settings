@@ -25,6 +25,8 @@
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.html</mask>
+      <mask>rwt*.html</mask>
+      <mask>rw*.html</mask>
     </recentFileMasks>
   </component>
 </application>
