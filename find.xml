@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../src/app/modules/rsam [gotrs]'" />
+    <option name="defaultScopeName" value="Directory '.../src/app/modules/rsam [gotrs]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/app/modules/rsam [gotrs]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
