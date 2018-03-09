@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="h" />
   </action>
