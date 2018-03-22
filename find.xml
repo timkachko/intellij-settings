@@ -30,6 +30,7 @@
       <mask>rwt*.html</mask>
       <mask>rw*.html</mask>
       <mask>rsam*.ts</mask>
+      <mask>html</mask>
     </recentFileMasks>
   </component>
 </application>

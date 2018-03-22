@@ -36,6 +36,9 @@
   <action id="StringManipulation.ToHyphenCaseAction">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="h" />
   </action>
+  <action id="StringManipulation.ToPascalCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="p" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -71,5 +74,8 @@
   </action>
   <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="s" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.WordsCapitalizeAction">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="up" />
   </action>
 </keymap>
