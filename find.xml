@@ -5,32 +5,15 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>s</mask>
-      <mask>sc</mask>
-      <mask>scs</mask>
-      <mask>scss</mask>
-      <mask>*scss</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.html</mask>
-      <mask>rwt*.html</mask>
-      <mask>rw*.html</mask>
-      <mask>rsam*.ts</mask>
-      <mask>html</mask>
-      <mask>*.scss</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.html" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
