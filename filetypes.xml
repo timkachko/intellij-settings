@@ -19,6 +19,7 @@
       <mapping pattern="sb-validators" type="TypeScript" />
       <mapping pattern="locationFormGroupFactory" type="TypeScript" />
       <mapping pattern="data-interfaces" type="TypeScript" />
+      <mapping pattern="rsal-reducers" type="TypeScript" />
       <mapping pattern="departments.ts" type="TypeScript" />
       <mapping pattern="validation-types" type="TypeScript" />
       <mapping pattern="verification-types" type="TypeScript" />
