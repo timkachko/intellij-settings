@@ -13,6 +13,7 @@
       <mapping ext="1265340420" type="PLAIN_TEXT" />
       <mapping ext="pug" type="PLAIN_TEXT" />
       <mapping ext="js'" type="PLAIN_TEXT" />
+      <mapping ext="ejs" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="chainmarker-validators" type="TypeScript" />
       <mapping pattern="userData" type="TypeScript" />
