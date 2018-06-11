@@ -1,84 +1,110 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="141+">
-    <driver id="h2.unified" name="H2" dialect="H2">
+  <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="exasol">
+      <artifact name="Exasol" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="oracle" name="Oracle" dialect="Oracle">
+    <driver id="h2.unified">
+      <artifact name="H2" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="azure.ms">
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="oracle">
+      <artifact name="Oracle" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-11.2.0.4.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-11.2.0.4.jar</url>
+        </library>
+      </artifact>
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-11.2.0.4.jar</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-11.2.0.4.jar</url>
-      </library>
     </driver>
-    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
+    <driver id="derby.embedded">
+      <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
+    <driver id="sybase.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
+    <driver id="sqlserver.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
+    <driver id="hsqldb.local">
+      <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
+    <driver id="mariadb">
+      <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
+    <driver id="derby.remote">
+      <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
+    <driver id="sqlite.xerial">
+      <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="db2" name="DB2 (LUW)" dialect="DB2">
-      <option name="auto-sync" value="false" />
-      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
-    </driver>
-    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
+    <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="mysql" name="MySQL" dialect="MySQL">
+    <driver id="postgresql">
+      <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
-      <property name="zeroDateTimeBehavior" value="convertToNull" />
-      <property name="tinyInt1isBit" value="false" />
-      <property name="characterEncoding" value="utf8" />
-      <property name="characterSetResults" value="utf8" />
-      <property name="yearIsDateType" value="false" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
-      </library>
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="redshift">
+      <artifact name="Redshift" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="db2">
+      <artifact name="DB2" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sqlserver.ms">
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="db2.jtopen">
+      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="mysql">
+      <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="25fb6f7e-6b9b-43ea-9f41-8b99c2321c7a" name="Oracle - D1DSB@oradbtest2.wpprivate.com driver" dialect="Oracle" driver-class="oracle.jdbc.OracleDriver" icon="AllIcons.Providers.Oracle">
-      <artifact name="Oracle" />
       <url-template name="Service Name" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@//{host::localhost}?[:{port::1521}]/{service:database:XE}" />
       <url-template name="SID" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@{host::localhost}?[:{port::1521}]:{SID:database:XE}" />
       <url-template name="TNS" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@{tns_name}" />
+      <artifact name="Oracle" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
       <library>
         <url>file://$USER_HOME$/p/wp/misc/ojdbc14-10.2.0.3.0.jar</url>
       </library>
     </driver>
-    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
+    <driver id="hsqldb.remote">
+      <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
   </component>
