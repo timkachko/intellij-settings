@@ -15,5 +15,6 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.component.ts</mask>
   </component>
 </application>
