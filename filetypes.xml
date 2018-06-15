@@ -11,6 +11,7 @@
       <mapping pattern="build-and-publish" type="PLAIN_TEXT" />
       <mapping pattern="ebt-detailed-page" type="PLAIN_TEXT" />
       <mapping ext="1265340420" type="PLAIN_TEXT" />
+      <mapping ext="pug" type="PLAIN_TEXT" />
       <mapping ext="js'" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="chainmarker-validators" type="TypeScript" />
@@ -18,10 +19,10 @@
       <mapping pattern="GotrsValidation" type="TypeScript" />
       <mapping pattern="sb-validators" type="TypeScript" />
       <mapping pattern="locationFormGroupFactory" type="TypeScript" />
-      <mapping pattern="data-interfaces" type="TypeScript" />
-      <mapping pattern="rsal-reducers" type="TypeScript" />
-      <mapping pattern="departments.ts" type="TypeScript" />
       <mapping pattern="validation-types" type="TypeScript" />
+      <mapping pattern="data-interfaces" type="TypeScript" />
+      <mapping pattern="departments.ts" type="TypeScript" />
+      <mapping pattern="rsal-reducers" type="TypeScript" />
       <mapping pattern="verification-types" type="TypeScript" />
       <mapping pattern="epics" type="TypeScript" />
       <mapping pattern="departments" type="TypeScript" />
