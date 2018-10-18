@@ -30,9 +30,13 @@
           <option name="url" value="/Volumes/SMSNGW/gotrs" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="/Volumes/SMSNGW/gotrs-git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/p/ebt/wmata/oct18" />
+    <option name="cloneParentDir" value="$USER_HOME$/p/ebt/wmata" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/p" />
