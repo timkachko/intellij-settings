@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -18,8 +18,8 @@
     <mask>rs*comp*.html</mask>
     <mask>rsal*comp*.html</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>cr*.html</mask>
+    <mask>*.html</mask>
   </component>
 </application>
