@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'WMATA.GOTRS.Renaissance.Client'" />
+    <option name="defaultScopeName" value="Project 'WMATA.GOTRS.Renaissance.Client'" />
+    <option name="SEARCH_SCOPE" value="Project 'WMATA.GOTRS.Renaissance.Client'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
