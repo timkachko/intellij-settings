@@ -22,16 +22,17 @@
       <mapping pattern="GotrsValidation" type="TypeScript" />
       <mapping pattern="sb-validators" type="TypeScript" />
       <mapping pattern="locationFormGroupFactory" type="TypeScript" />
-      <mapping pattern="validation-types" type="TypeScript" />
       <mapping pattern="destroy-tracker-base" type="TypeScript" />
       <mapping pattern="data-interfaces" type="TypeScript" />
-      <mapping pattern="departments.ts" type="TypeScript" />
       <mapping pattern="rsal-reducers" type="TypeScript" />
+      <mapping pattern="departments.ts" type="TypeScript" />
+      <mapping pattern="validation-types" type="TypeScript" />
       <mapping pattern="verification-types" type="TypeScript" />
       <mapping pattern="epics" type="TypeScript" />
       <mapping pattern="warnings-ml-current" type="TypeScript" />
       <mapping pattern="departments" type="TypeScript" />
       <mapping pattern="users-mock" type="TypeScript" />
+      <mapping pattern="rdv-sov-buttons" type="TypeScript" />
       <mapping ext="sfx" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="helloworld" type="Go" />
