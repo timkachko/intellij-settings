@@ -22,7 +22,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="cl" value="console.log();" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
