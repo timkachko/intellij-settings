@@ -1,12 +1,12 @@
 <templateSet group="user">
-  <template name="ife" value="if($condition$){&#10;    $end$&#10;    } else {&#10;    } // if" description="if else" toReformat="true" toShortenFQNames="true">
+  <template name="ts-ife" value="if($condition$){&#10;    $end$&#10;    } else {&#10;    } // if" description="if else" toReformat="true" toShortenFQNames="true">
     <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ifee" value="if($condition$){&#10;    $end$&#10;} else if(){&#10;} else {} // if" description="" toReformat="true" toShortenFQNames="true">
+  <template name="ts-ifee" value="if($condition$){&#10;    $end$&#10;} else if(){&#10;} else {} // if" description="" toReformat="true" toShortenFQNames="true">
     <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -14,7 +14,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="case" value="switch($expression$) {&#10;    case $value$:&#10;        $end$&#10;        break;&#10;    default:&#10;} //case" description="" toReformat="false" toShortenFQNames="true">
+  <template name="ts-case" value="switch($expression$) {&#10;    case $value$:&#10;        $end$&#10;        break;&#10;    default:&#10;} //case" description="" toReformat="false" toShortenFQNames="true">
     <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
@@ -22,10 +22,31 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="cl" value="console.log();" description="" toReformat="false" toShortenFQNames="true">
+  <template name="ts-cl" value="console.log();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ts-int" value="export interface $name$ extends $interface$ {&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="interface" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ts-type" value="export type $name$ = $type$;" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ts-const" value="const $name$ = $value$;" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
