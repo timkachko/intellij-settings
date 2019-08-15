@@ -59,7 +59,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ts-class" value="export class $name$ extends $base$ implements $interface$ {&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="ts-class" value="export class $name$ extends $base$ implements $interface$ {&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="base" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="interface" expression="" defaultValue="" alwaysStopAt="true" />
