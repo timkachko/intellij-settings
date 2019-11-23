@@ -34,12 +34,24 @@
           <option name="url" value="/Volumes/SMSNGW/gotrs-git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://devtools-bitbucket.wmata.com" />
+          <option name="userName" value="dkachko" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/p/ebt/wmata" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/p" />
