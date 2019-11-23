@@ -3,7 +3,10 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="pw-error-messages" type="PLAIN_TEXT" />
       <mapping pattern="_wp-header-overrides.scss" type="PLAIN_TEXT" />
       <mapping pattern="menu-navigation.ts" type="PLAIN_TEXT" />
@@ -11,7 +14,6 @@
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="build-and-publish" type="PLAIN_TEXT" />
       <mapping pattern="validator" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="ebt-detailed-page" type="PLAIN_TEXT" />
       <mapping ext="1265340420" type="PLAIN_TEXT" />
       <mapping ext="pug" type="PLAIN_TEXT" />
