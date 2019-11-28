@@ -3,8 +3,6 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="pw-error-messages" type="PLAIN_TEXT" />
@@ -23,13 +21,13 @@
       <mapping pattern="rsal-reducers" type="TypeScript" />
       <mapping pattern="locationFormGroupFactory" type="TypeScript" />
       <mapping pattern="sb-validators" type="TypeScript" />
+      <mapping pattern="soe-def-form-convertors" type="TypeScript" />
       <mapping pattern="departments.ts" type="TypeScript" />
       <mapping pattern="epics" type="TypeScript" />
       <mapping pattern="userData" type="TypeScript" />
       <mapping pattern="data-interfaces" type="TypeScript" />
       <mapping pattern="departments" type="TypeScript" />
       <mapping pattern="verification-types" type="TypeScript" />
-      <mapping pattern="soe-def-form-convertors" type="TypeScript" />
       <mapping pattern="GotrsValidation" type="TypeScript" />
       <mapping pattern="warnings-ml-current" type="TypeScript" />
       <mapping pattern="chainmarker-validators" type="TypeScript" />
