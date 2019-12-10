@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="pw-error-messages" type="PLAIN_TEXT" />
       <mapping pattern="_wp-header-overrides.scss" type="PLAIN_TEXT" />
