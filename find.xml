@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,9 +17,9 @@
     <mask>*.json</mask>
     <mask>*component.ts</mask>
     <mask>cof*.*</mask>
-    <mask>*.html</mask>
     <mask>cr*</mask>
     <mask>*.ts</mask>
     <mask>*service.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
