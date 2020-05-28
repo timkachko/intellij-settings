@@ -96,21 +96,4 @@
   <template name="psvm" value="fun main(args : Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="maina" value="fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="maino" value="@JvmStatic&#10;fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="soutf" value="println(&quot;$CLASS$.$METHOD$&quot;)" description="Prints current class and function name to System.out" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS" expression="groovyScript(&quot;_1 ?: '&lt;top&gt;'&quot;, kotlinClassName())" defaultValue="" alwaysStopAt="false" />
-    <variable name="METHOD" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
-    <context />
-  </template>
-  <template name="psvma" value="fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="psvmo" value="@JvmStatic&#10;fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
 </templateSet>
