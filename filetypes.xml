@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="utils.py" type="PLAIN_TEXT" />
+      <mapping ext="sdfs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
