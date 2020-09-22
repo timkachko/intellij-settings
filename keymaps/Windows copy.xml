@@ -1,0 +1,9 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="ctrl s" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="ctrl d" />
+  </action>
+</keymap>
