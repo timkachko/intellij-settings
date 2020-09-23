@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 1" parent="$default">
+<keymap version="1" name="Windows WMATA settings" parent="$default">
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
