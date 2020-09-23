@@ -17,6 +17,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
   </action>
+  <action id="Jdbc.OpenConsole.New" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="h" />
   </action>
@@ -25,6 +26,9 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="s" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="ctrl d" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowTabbedFileHistory">
