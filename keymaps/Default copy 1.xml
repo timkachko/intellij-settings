@@ -1,0 +1,45 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
+  </action>
+  <action id="EditCommitMessage">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="e" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="h" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="n" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="s" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="ctrl h" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToCamelCaseAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" second-keystroke="c" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
+    <keyboard-shortcut first-keystroke="shift ctrl q" second-keystroke="c" />
+  </action>
+</keymap>
