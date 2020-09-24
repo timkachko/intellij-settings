@@ -4,7 +4,7 @@
     <property name="created">2020-09-23T15:33:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-09-23T15:51:11</property>
+    <property name="modified">2020-09-23T20:40:34</property>
     <property name="originalScheme">Titanium Studio</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -121,6 +121,7 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
+        <option name="BACKGROUND" value="52029" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
