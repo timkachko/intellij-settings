@@ -4,7 +4,7 @@
     <property name="created">2020-09-23T15:33:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-09-24T10:23:57</property>
+    <property name="modified">2020-09-24T11:32:41</property>
     <property name="originalScheme">Titanium Studio</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -102,9 +102,14 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cd63" />
+      </value>
+    </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="983498" />
+        <option name="FOREGROUND" value="c54ff8" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -113,21 +118,30 @@
         <option name="BACKGROUND" value="141414" />
       </value>
     </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff4141" />
+      </value>
+    </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ff6666" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cf6a4c" />
-        <option name="BACKGROUND" value="52029" />
+        <option name="FOREGROUND" value="4da4be" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f8f54f" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -481,6 +495,11 @@
       <value>
         <option name="FOREGROUND" value="5f5a60" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4f4ffc" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
