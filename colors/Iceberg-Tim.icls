@@ -4,7 +4,7 @@
     <property name="created">2020-09-23T15:33:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-09-25T13:27:32</property>
+    <property name="modified">2020-09-29T10:02:00</property>
     <property name="originalScheme">Titanium Studio</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -230,7 +230,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="cda869" />
+        <option name="FOREGROUND" value="bebebe" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -253,7 +253,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="cda869" />
+        <option name="FOREGROUND" value="bebebe" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -289,7 +289,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="777777" />
+        <option name="FOREGROUND" value="848fa5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -319,7 +319,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="fcfcfc" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -349,7 +349,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="cda869" />
+        <option name="FOREGROUND" value="bebebe" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
