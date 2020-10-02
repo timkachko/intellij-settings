@@ -4,7 +4,7 @@
     <property name="created">2020-09-23T15:33:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-10-01T10:40:15</property>
+    <property name="modified">2020-10-02T14:28:41</property>
     <property name="originalScheme">Titanium Studio</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -388,8 +388,8 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="141414" />
-        <option name="BACKGROUND" value="f8f8f8" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="301616" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -431,7 +431,7 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="BACKGROUND" value="5e5339" />
+        <option name="BACKGROUND" value="2d2717" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
@@ -500,6 +500,24 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="fdfdfd" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="404d6e" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="6198a2" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -637,6 +655,11 @@
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
     </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="BACKGROUND" value="141c18" />
+      </value>
+    </option>
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="867f27" />
@@ -658,7 +681,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
+        <option name="EFFECT_COLOR" value="8c8c00" />
         <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
