@@ -4,7 +4,7 @@
     <property name="created">2020-09-23T15:33:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-10-02T16:50:40</property>
+    <property name="modified">2020-10-04T13:39:10</property>
     <property name="originalScheme">Titanium Studio</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -275,11 +275,6 @@
       </value>
     </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="f8f8f8" />
-      </value>
-    </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f8f8f8" />
@@ -628,7 +623,7 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cda869" />
