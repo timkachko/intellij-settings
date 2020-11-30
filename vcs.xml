@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/timkachko/angular-ivy-equ43g.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.163:8000/devtools-bitbucket/scm/gotrs2/renaissance.git" />
+          <option name="userName" value="dkachko" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/p/interviewProjects/angular" />
