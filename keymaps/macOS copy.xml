@@ -1,16 +1,9 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="Scala.ShowImplicitConversions" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl s" />
-  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl d" />
-  </action>
-  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
-    <keyboard-shortcut first-keystroke="shift ctrl s" second-keystroke="s" />
   </action>
 </keymap>
