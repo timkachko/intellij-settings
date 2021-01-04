@@ -3,15 +3,11 @@
     <extensionMap>
       <mapping pattern="sdsd" type="PLAIN_TEXT" />
       <mapping pattern="world-clock" type="PLAIN_TEXT" />
-      <mapping pattern="channel" type="PLAIN_TEXT" />
-      <mapping pattern="channel-247" type="PLAIN_TEXT" />
-      <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping pattern="dw-widget-base" type="TypeScript" />
-      <mapping pattern="elementFactories" type="TypeScript" />
       <mapping pattern="dw-my-recent-requests" type="TypeScript" />
-      <mapping pattern=".analysis_options" type="YAML" />
+      <mapping pattern="elementFactories" type="TypeScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
