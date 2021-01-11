@@ -27,6 +27,7 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl h" />
   </action>
+  <action id="Scala.ShowImplicitConversions" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -60,6 +61,9 @@
   </action>
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="p" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl d" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="u" />
