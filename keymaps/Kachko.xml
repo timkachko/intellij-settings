@@ -61,6 +61,9 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="p" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl d" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="u" />
   </action>
