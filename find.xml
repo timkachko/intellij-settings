@@ -23,7 +23,8 @@
     <mask>*service.ts</mask>
     <mask>ws*.*</mask>
     <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
+    <mask>*.routing.ts</mask>
   </component>
 </application>
