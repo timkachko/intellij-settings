@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="sdsd" type="PLAIN_TEXT" />
       <mapping pattern="world-clock" type="PLAIN_TEXT" />
