@@ -27,12 +27,13 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl h" />
   </action>
+  <action id="Scala.ShowImplicitConversions" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl s" />
   </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl s" />
@@ -61,8 +62,11 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="p" />
   </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="u" />
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="ctrl d" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="s" />
   </action>
   <action id="Vcs.ShowDiffWithLocal">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="d" />
